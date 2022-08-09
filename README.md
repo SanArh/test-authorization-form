@@ -1,6 +1,6 @@
 # Форма авторизации
 выполнена в рамках тестового с использованием react hook forms, styled-components
-ссфлка на деплой: https://test-authorization-form.vercel.app/
+ссылка на деплой: https://test-authorization-form.vercel.app/
 
 
 ## Available Scripts
