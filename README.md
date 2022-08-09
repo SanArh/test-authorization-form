@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Форма авторизации
+выполнена в рамках тестового с использованием react hook forms, styled-components
+ссфлка на деплой: https://test-authorization-form.vercel.app/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
